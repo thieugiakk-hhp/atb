@@ -1,0 +1,7 @@
+C:\Users\thieu\source\repos\GameAttackBees\bin\Debug\GameAttackBees.exe.config
+C:\Users\thieu\source\repos\GameAttackBees\bin\Debug\GameAttackBees.exe
+C:\Users\thieu\source\repos\GameAttackBees\bin\Debug\GameAttackBees.pdb
+C:\Users\thieu\source\repos\GameAttackBees\obj\Debug\GameAttackBees.csproj.AssemblyReference.cache
+C:\Users\thieu\source\repos\GameAttackBees\obj\Debug\GameAttackBees.csproj.CoreCompileInputs.cache
+C:\Users\thieu\source\repos\GameAttackBees\obj\Debug\GameAttackBees.exe
+C:\Users\thieu\source\repos\GameAttackBees\obj\Debug\GameAttackBees.pdb
